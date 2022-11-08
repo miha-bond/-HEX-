@@ -12,3 +12,6 @@ function generateRandomColor() {
     ).slice(-2);
   return color;
 }
+
+
+Потом визвати функцію getRandomHexColor() або generateRandomColor()
